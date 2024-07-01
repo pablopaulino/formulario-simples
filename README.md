@@ -17,6 +17,7 @@ Este é um projeto de formulário de cadastro simples, desenvolvido com HTML e C
   Clone o repositório para sua máquina local.
    ```bash
    git clone https://github.com/pablopaulino/formulario-simples.git
+   ```
 
 
 ## Estrutura do Projeto
