@@ -20,11 +20,22 @@ Este é um projeto de formulário de cadastro simples, desenvolvido com HTML e C
 
 
 2. Navegue até o diretório do projeto.
-````cd portfolio-simples
+    ```cd portfolio-simples
 
 3. Abra o arquivo index.html no seu navegador preferido.
 
-# Meu Projeto
+## Estrutura do Projeto
+
+formulário-simples/
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── img/
+│       └── undraw_shopping_re_3wst.svg
+│
+├── index.html
+└── README.md
 
 ## Tecnologias Usadas
 - HTML5
@@ -45,6 +56,6 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ## Contato
 Se você tiver alguma dúvida, sugestão ou feedback, entre em contato:
 
-- **Nome:** Vitor Markis
-- **Email:** [seuemail@example.com](mailto:seuemail@example.com)
-- **GitHub:** [vitormarkis](https://github.com/vitormarkis)
+- **Nome:** Pablo Paulino
+- **Email:** [seuemail@example.com](pablopaulinodev@gmail.com)
+- **GitHub:** [vitormarkis](https://github.com/pablopaullino)
