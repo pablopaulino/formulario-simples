@@ -20,12 +20,12 @@ Este é um projeto de formulário de cadastro simples, desenvolvido com HTML e C
 
 
 2. Navegue até o diretório do projeto.
-    ```cd portfolio-simples
+      cd portfolio-simples
 
 3. Abra o arquivo index.html no seu navegador preferido.
 
 ## Estrutura do Projeto
-
+```
 formulário-simples/
 │
 ├── assets/
@@ -36,6 +36,7 @@ formulário-simples/
 │
 ├── index.html
 └── README.md
+```
 
 ## Tecnologias Usadas
 - HTML5
@@ -46,7 +47,7 @@ Se você quiser contribuir com o projeto, por favor, siga estas etapas:
 
 1. Faça um fork deste repositório.
 2. Crie um branch com a sua feature: `git checkout -b minha-feature`
-3. Faça commit das suas alterações: `git commit -m 'Adiciona minha feature'`
+3. Faça commit das suas alterações: `git commit -m 'Adiciona minha feature`
 4. Faça push para o seu branch: `git push origin minha-feature`
 5. Envie um pull request.
 
@@ -57,5 +58,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 Se você tiver alguma dúvida, sugestão ou feedback, entre em contato:
 
 - **Nome:** Pablo Paulino
-- **Email:** [seuemail@example.com](pablopaulinodev@gmail.com)
-- **GitHub:** [vitormarkis](https://github.com/pablopaullino)
+- **Email:** [pablopaulinodev@gmail.com](pablopaulinodev@gmail.com)
+- **GitHub:** [PabloPaulino](https://www.linkedin.com/in/pablopaullino/)
