@@ -10,7 +10,7 @@ Este é um projeto de formulário de cadastro simples, desenvolvido com HTML e C
 
 ## Captura de Tela
 
-![Formulário de Cadastro](assets/img/undraw_shopping_re_3wst.svg)
+![Formulário de Cadastro](assets/img/captura-de-tela.png)
 
 ## Como Usar
 
