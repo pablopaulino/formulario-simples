@@ -14,15 +14,10 @@ Este é um projeto de formulário de cadastro simples, desenvolvido com HTML e C
 
 ## Como Usar
 
-1. Clone o repositório para sua máquina local.
+  Clone o repositório para sua máquina local.
    ```bash
-   git clone https://github.com/vitormarkis/portfolio-vitor.git
+   git clone https://github.com/pablopaulino/formulario-simples.git
 
-
-2. Navegue até o diretório do projeto.
-      cd portfolio-simples
-
-3. Abra o arquivo index.html no seu navegador preferido.
 
 ## Estrutura do Projeto
 ```
