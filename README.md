@@ -55,4 +55,4 @@ Se você tiver alguma dúvida, sugestão ou feedback, entre em contato:
 
 - **Nome:** Pablo Paulino
 - **Email:** [pablopaulinodev@gmail.com](pablopaulinodev@gmail.com)
-- **GitHub:** [PabloPaulino](https://www.linkedin.com/in/pablopaullino/)
+- **GitHub:** [PabloPaulino](https://www.linkedin.com/in/pablopaulinno/)
